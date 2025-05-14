@@ -1,0 +1,20 @@
+---
+title: "Software"
+output: html_document
+---
+
+<style>
+  .title{
+    display: none;}</style>
+
+<br>
+
+We develop novel or improved statistical analysis tools and computational models and provide these as open-source software packages. Please note that, while we make good-faith attempts to ensure this software is robust and bug-free, we do sometimes find bugs and unexpected behavior, especially when applying them to contexts outside of the research needs for which they were originally developed. If you find a bug, please report it to the contact listed on the package webpage or to Jon at jawalter@ucdavis.edu.
+
+[wsyn: Wavelet approaches to studies of synchrony in ecology and other fields](https://cran.r-project.org/web/packages/wsyn/index.html)
+
+[mms: Model selection for matrix regression using leave-n-out cross-validation](https://github.com/reumandc/mms)
+
+[hotspomoments: Statistical approaches to detecting ecosystem hot spots and hot moments](https://github.com/jonathan-walter/hotspomoments)
+
+[disturbhf: Disturbance detection and quantification for high-frequency time series](https://github.com/jonathan-walter/disturbhf)

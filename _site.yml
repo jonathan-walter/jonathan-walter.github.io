@@ -1,0 +1,29 @@
+output_dir: "."
+ 
+navbar:
+    title: "Walter Lab"
+    right:
+      - text: "About"     
+        href: index.html # html automatically created when you knit
+      - text: "People"
+        href: people.html
+      - text: "Research"
+        href: research.html # create .rmd with mirrored names, eg "about.rmd"
+      - text: "Software"
+        href: software.html
+      - text: "Decision Support"
+        href: decisionsupport.html
+
+
+output: 
+  html_document:
+    theme: flatly
+    highlight: kate
+#    include:
+#      after_body: footer.html
+#      in_header: analytics.html
+
+ 
+
+#url: christineparisek@github.io 
+#github_username:  

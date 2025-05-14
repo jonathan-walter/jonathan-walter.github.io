@@ -1,0 +1,20 @@
+---
+title: "Research"
+output: html_document
+---
+
+<style>
+  .title{
+    display: none;}</style>
+
+<br>
+
+Research in the Walter Lab is spans different habitat types, kinds of organisms, and organizational scales, but is unified by an emphasis on applying quantitative methods to understand how and why systems change. Some current research foci include:
+
+**Sturgeon movement and population dynamics:** Green (*Acipenser medirostris*) and white (*A. transmontanus*) sturgeon are native fishes whose populations in Central California are imperiled. We are using quantitative syntheses of acoustic telemetry data and individual-based models to uncover new understandings of their movement behaviors and habitat use in response to flows and potential threats like toxic algal blooms, and to project outcomes for sturgeon under climate change and water management scenarios.
+
+**Aquatic heatwaves and thermal regimes:** Temperature is a fundamental driver of ecosystem processes and organism physiology. We focus on the patterns and consequences of aquatic heatwaves, prolonged periods of unusually high temperatures. Our work has shown that heatwaves in river temperatures have become more prevalent over time as the climate has warmed; ongoing work investigates the roles of river network structure and water management in mediating patterns of co-occurrence of riverine heatwaves in the Western US. We are also interested in impacts of wildfire on river temperatures. 
+
+**Improving water management for Chinook salmon:** California’s central valley is home to the southernmost populations of Chinook salmon, but a legacy of dam and levee construction, floodplain development, and water extraction has reduced chinook salmon abundances to a fraction of their historical numbers, resulting in fishery closures and listing under the Endangered Species Act. We study impacts of water temperature and flows on chinook salmon behavior and population dynamics with an aim of improving water management outcomes for fish and people.
+
+**Ecological synchrony:** Synchrony is a common feature of ecological systems (and complex systems in other domains) which manifests as a tendency for life history events, or fluctuations in key variables like species’ abundances or biogeochemical concentrations, to coincide in time. Synchrony fundamentally shapes systems’ stability and resilience because synchronous fluctuations reinforce each other and total to large system-wide effects, while asynchrony tends to allow some components to compensate for declines in others.
