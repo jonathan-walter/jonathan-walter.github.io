@@ -18,3 +18,10 @@ We develop novel or improved statistical analysis tools and computational models
 [hotspomoments: Statistical approaches to detecting ecosystem hot spots and hot moments](https://github.com/jonathan-walter/hotspomoments)
 
 [disturbhf: Disturbance detection and quantification for high-frequency time series](https://github.com/jonathan-walter/disturbhf)
+
+<br>
+<center>
+
+![](./images/copenhagen.jpg){height=480px}
+
+</center>

@@ -13,7 +13,7 @@ output: html_document
 #### Jonathan Walter (Senior Researcher, Lab PI)
 ![](./images/jon.jpg){width=180px}
 
-Jon uses data-intensive and computational approaches to understanding the dynamics of environmental systems and how to improve the practice of conservation and natural resource management. He is especially interested in the dynamics of aquatic ecosystems and the organisms that inhabit them, and in using quantitative techniques to solve research problems that integrate across areas of knowledge and organizational scales. Jon is also the manager of the [Pacific Aquatic Telemetry Hub (PATH)](https://path.wfcb.ucdavis.edu/), a node of the Ocean Tracking Network and the primary repository for 69kHz (e.g., Vemco) acoustic telemetry data in California. 
+Jon specializes in applying data-intensive and computational approaches to understand the dynamics of environmental systems and how to improve the practice of conservation and natural resource management. He is especially interested in the dynamics of aquatic ecosystems and the organisms that inhabit them, and in using data and models to solve research problems that integrate across areas of knowledge and organizational scales. Jon is also the manager of the [Pacific Aquatic Telemetry Hub (PATH)](https://path.wfcb.ucdavis.edu/), a node of the Ocean Tracking Network and the primary repository for 69kHz (e.g., Vemco) acoustic telemetry data in California inland waters. 
 
 He earned his PhD in Environmental Sciences from the University of Virginia and has been a researcher or instructor at Virginia Commonwealth University, the University of Kansas, the University of Virginia, and the University of Richmond prior to joining UC Davis.
 
@@ -26,7 +26,7 @@ Contact: jawalter@ucdavis.edu | [Google Scholar](https://scholar.google.com/cita
 
 Dave is interested in how environmental cycles mediate animal behavior and influence the efficacy of conservation actions. For his PhD, he designed field experiments to elucidate movement and predation dynamics of tidal wetland fishes. This culminated in a habitat suitability model, intended to help optimize restoration design for fishes in a variety of coastal wetlands ecosystems.
 
-Dave is now seeking to better understand how tidal and day-night cycles influence the swimming behavior of juvenile salmon. He looks forward to gleaning these insights from archival acoustic telemetry datasets in the California Delta. Ultimately, Dave seeks to help align flow management actions with fish behavior tendencies in a way that maximizes emigration survival for imperiled Central Valley salmon.
+Dave's current research focuses on improving quantification of predator-prey interactions and mortality rates of outmigrating juvenile salmon. He looks forward to gleaning these insights from synthesizing archival acoustic telemetry and other monitoring datasets in the California Delta. Ultimately, Dave seeks to help align flow management actions with fish behavior in a way that maximizes emigration survival for imperiled Central Valley salmon.
 
 Contact: deayers@ucdavis.edu
 
@@ -37,3 +37,11 @@ Contact: deayers@ucdavis.edu
 Erin is broadly interested in the study of both social and ecological aspects of aquatic conservation and in effectively communicating this research to natural resource managers, students, and the public. Her master’s research at Michigan State included a qualitative study on climate change perceptions in natural resource management organizations and a quantitative study on the influence of landscape features and climate change on aquatic habitats and fisheries. Her PhD research at UC Davis included modeling species richness and distribution of freshwater fish in Central Chile as well as managing the Pacific Aquatic Telemetry Hub (PATH) database and analyzing telemetry data to inform Green Sturgeon and flow management. Erin’s postdoctoral work at UC Davis will integrate fisheries movement data, hydrology, and policy to support fisheries management and conservation. 
 
 Contact: eetracy@ucdavis.edu | [Google Scholar](https://scholar.google.com/citations?user=v3oBEQ4AAAAJ&hl=en)
+
+***
+#### Alyse Lacey (M.S. Student; co-mentored with John Durand)
+![](./images/alyselacey.png){width=150px}
+
+Alyse is interested in how to conserve and manage native fishes here in California. She is also  passionate about reintroduction efforts to historical habitats and monitoring species success. During her undergraduate career she investigated the correlations between Cichlid fish body measurements and their weights. This research aimed to determine the best ways to handle fish in the field to minimize stress and human interaction. Alyse’s MS research at UC Davis investigates how predators, phytoplankton production, and environmental conditions shape the spatiotemporal distribution of zooplankton on the Sacramento-San Joaquin Delta and their role as prey for native fishes.
+
+Contact: alacey@ucdavis.edu
