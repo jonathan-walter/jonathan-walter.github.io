@@ -45,3 +45,13 @@ Contact: eetracy@ucdavis.edu | [Google Scholar](https://scholar.google.com/citat
 Alyse is interested in how to conserve and manage native fishes here in California. She is also  passionate about reintroduction efforts to historical habitats and monitoring species success. During her undergraduate career she investigated the correlations between Cichlid fish body measurements and their weights. This research aimed to determine the best ways to handle fish in the field to minimize stress and human interaction. Alyse’s MS research at UC Davis investigates how predators, phytoplankton production, and environmental conditions shape the spatiotemporal distribution of zooplankton on the Sacramento-San Joaquin Delta and their role as prey for native fishes.
 
 Contact: alacey@ucdavis.edu
+
+***
+#### Jesse Schroeder (Junior Specialist)
+![](./images/jesseschroeder.jpg){width=150px}
+
+Jesse is interested in restoration practices that elucidate the complex mechanisms of fish behavior in tidal systems. He earned a B.S. in Wildlife, Fish, and Conservation Biology from the University of California, Davis, where he began work investigating juvenile salmon predation dynamics and generating novel habitat suitability metrics in restored wetlands.
+
+Jesse’s time at UC Davis showed him that large-scale environmental restoration necessitates the development and adoption of equitable scientific methods. In pursuit of this, he spent his early career at the US Geological Survey developing low-cost remote water-quality sensing devices and methods to record spatial water quality in hard-to-access marsh channels. With support from the Walter Lab, he’s now working to generate an R package that estimates habitat suitability in tidal systems, and hopes to facilitate widespread use of the tool to bolster restoration practices throughout the San Francisco Estuary and beyond.
+
+Contact: jrschroeder@ucdavis.edu
