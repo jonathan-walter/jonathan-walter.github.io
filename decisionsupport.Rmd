@@ -17,4 +17,4 @@ We value providing actionable information to practitioners in conservation and n
 
 <center>
 
-![](./images/peterlake.jpg){width=450px}
+![](./images/peterlake.jpg){alt="A tree-lined lake reflecting the sky" width=450px}

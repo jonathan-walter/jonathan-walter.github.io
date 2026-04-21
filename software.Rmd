@@ -22,6 +22,6 @@ We develop novel or improved statistical analysis tools and computational models
 <br>
 <center>
 
-![](./images/copenhagen.jpg){height=480px}
+![](./images/copenhagen.jpg){alt="A canal in historic Copenhagen at nighttime" height=480px}
 
 </center>

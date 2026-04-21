@@ -11,7 +11,7 @@ output: html_document
 
 ***
 #### Jonathan Walter (Senior Researcher, Lab PI)
-![](./images/jon.jpg){width=180px}
+![](./images/jon.jpg){alt="Jon in a boat on a lake holding a bass" width=180px}
 
 Jon specializes in applying data-intensive and computational approaches to understand the dynamics of environmental systems and how to improve the practice of conservation and natural resource management. He is especially interested in the dynamics of aquatic ecosystems and the organisms that inhabit them, and in using data and models to solve research problems that integrate across areas of knowledge and organizational scales. Jon is also the manager of the [Pacific Aquatic Telemetry Hub (PATH)](https://path.wfcb.ucdavis.edu/), a node of the Ocean Tracking Network and the primary repository for 69kHz (e.g., Vemco) acoustic telemetry data in California inland waters. 
 
@@ -22,7 +22,7 @@ Contact: jawalter@ucdavis.edu | [Google Scholar](https://scholar.google.com/cita
 
 ***
 #### David Ayers (Postdoctoral Researcher)
-![](./images/daveayers.jpg){width=180px}
+![](./images/daveayers.jpg){alt="Dave standing in front of a stream holding a fish" width=180px}
 
 Dave is interested in how environmental cycles mediate animal behavior and influence the efficacy of conservation actions. For his PhD, he designed field experiments to elucidate movement and predation dynamics of tidal wetland fishes. This culminated in a habitat suitability model, intended to help optimize restoration design for fishes in a variety of coastal wetlands ecosystems.
 
@@ -32,7 +32,7 @@ Contact: deayers@ucdavis.edu
 
 ***
 #### Erin Tracy (Postdoctoral Researcher)
-![](./images/erintracy.jpg){width=180px}
+![](./images/erintracy.jpg){alt="Erin standing on a boat in the bay holding a juvenile white sturgeon" width=180px}
 
 Erin is broadly interested in the study of both social and ecological aspects of aquatic conservation and in effectively communicating this research to natural resource managers, students, and the public. Her master’s research at Michigan State included a qualitative study on climate change perceptions in natural resource management organizations and a quantitative study on the influence of landscape features and climate change on aquatic habitats and fisheries. Her PhD research at UC Davis included modeling species richness and distribution of freshwater fish in Central Chile as well as managing the Pacific Aquatic Telemetry Hub (PATH) database and analyzing telemetry data to inform Green Sturgeon and flow management. Erin’s postdoctoral work at UC Davis will integrate fisheries movement data, hydrology, and policy to support fisheries management and conservation. 
 
@@ -40,7 +40,7 @@ Contact: eetracy@ucdavis.edu | [Google Scholar](https://scholar.google.com/citat
 
 ***
 #### Alyse Lacey (M.S. Student; co-mentored with John Durand)
-![](./images/alyselacey.png){width=150px}
+![](./images/alyselacey.png){alt="Alyse standing at the edge of a stream" width=150px}
 
 Alyse is interested in how to conserve and manage native fishes here in California. She is also  passionate about reintroduction efforts to historical habitats and monitoring species success. During her undergraduate career she investigated the correlations between Cichlid fish body measurements and their weights. This research aimed to determine the best ways to handle fish in the field to minimize stress and human interaction. Alyse’s MS research at UC Davis investigates how predators, phytoplankton production, and environmental conditions shape the spatiotemporal distribution of zooplankton on the Sacramento-San Joaquin Delta and their role as prey for native fishes.
 
@@ -48,7 +48,7 @@ Contact: alacey@ucdavis.edu
 
 ***
 #### Jesse Schroeder (Junior Specialist)
-![](./images/jesseschroeder.jpg){width=150px}
+![](./images/jesseschroeder.jpg){alt="Jesse on a boat in a lake holding a fish" width=150px}
 
 Jesse is interested in restoration practices that elucidate the complex mechanisms of fish behavior in tidal systems. He earned a B.S. in Wildlife, Fish, and Conservation Biology from the University of California, Davis, where he began work investigating juvenile salmon predation dynamics and generating novel habitat suitability metrics in restored wetlands.
 
